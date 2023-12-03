@@ -9,6 +9,7 @@ const toDoList = [
   "Conferir a reposição das bebidas",
   "Preparar os Couverts",
   "Buscar gelo",
+  "conferir as frutas",
   "Conferir carga do multibanco",
 ];
 
